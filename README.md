@@ -30,5 +30,4 @@ pip install beautifulsoup4
 ## License
 This project is open-source under the MIT License.
 
-## Author
-[Shreyash Ingle](https://github.com/shreyash0019)
+
