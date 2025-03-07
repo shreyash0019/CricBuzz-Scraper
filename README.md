@@ -17,7 +17,7 @@ The script will display score updates for all recent matches:
 1. Match 1 Score Update
 2. Match 2 Score Update
 ...
-----------------------------------------
+-----------------------------------------
 ```
 
 
